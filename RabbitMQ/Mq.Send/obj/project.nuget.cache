@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZPCdbc6EFTp1614BQ1QsIQnqo5YA5VBgge2XD+GKRskrVHcjFoaUyxCLw8qfEw8FFFwBQRd/sCZk0YcGqws1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Learning\\T.Learning\\RabbitMQ\\Mq.Send\\Mq.Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

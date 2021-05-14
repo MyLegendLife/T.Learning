@@ -1,0 +1,25 @@
+//{
+//    "defaultAssembly": "T.DI", //接口所在的程序集名称
+//    "components": [
+//        {
+//            "type": "T.DI.Services.OneService", //接口的实现 全名称
+//            "services": [
+//                {
+//                    "type": "T.DI.Services.IOneService" // 接口的全名称
+//                }
+//            ],
+//            "instanceScope": "single-instance", //单例生命周期
+//            "injectProperties": true //是否支持属性注入
+//        },
+//        {
+//            "type": "T.DI.Services.TwoService", //接口的实现 全名称
+//            "services": [
+//                {
+//                    "type": "T.DI.Services.ITwoService" // 接口的全名称
+//                }
+//            ],
+//            "instanceScope": "single-instance", //单例生命周期
+//            "injectProperties": true //是否支持属性注入
+//        }
+//    ]
+//}

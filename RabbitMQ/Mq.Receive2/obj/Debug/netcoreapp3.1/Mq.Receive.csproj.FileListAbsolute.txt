@@ -1,0 +1,16 @@
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.exe
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.AssemblyInfoInputs.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.AssemblyInfo.cs
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.deps.json
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.runtimeconfig.json
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.runtimeconfig.dev.json
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\Mq.Receive.pdb
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.csproj.CopyComplete
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.pdb
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.genruntimeconfig.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\Mq.Receive\obj\Debug\netcoreapp3.1\Mq.Receive.csprojAssemblyReference.cache

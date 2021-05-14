@@ -1,0 +1,8 @@
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\bin\Debug\netcoreapp3.1\T.EventBus.deps.json
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\bin\Debug\netcoreapp3.1\T.EventBus.dll
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\bin\Debug\netcoreapp3.1\T.EventBus.pdb
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\obj\Debug\netcoreapp3.1\T.EventBus.AssemblyInfoInputs.cache
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\obj\Debug\netcoreapp3.1\T.EventBus.AssemblyInfo.cs
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\obj\Debug\netcoreapp3.1\T.EventBus.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\obj\Debug\netcoreapp3.1\T.EventBus.dll
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus\obj\Debug\netcoreapp3.1\T.EventBus.pdb

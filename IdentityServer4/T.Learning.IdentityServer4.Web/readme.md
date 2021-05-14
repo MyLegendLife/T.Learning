@@ -1,0 +1,6 @@
+﻿更新IdentityServer数据库，一共两个上下文，分别执行
+add-migration InitialIdentityServerConfigurationDbMigration -c ConfigurationDbContext -o Data/Migrations/IdentityServer/ConfigurationDb
+update-database -c ConfigurationDbContext
+
+add-migration InitialIdentityServerPersistedGrantDbMigration -c PersistedGrantDbContext -o Data/Migrations/IdentityServer/PersistedGrantDb
+update-database -c PersistedGrantDbContext

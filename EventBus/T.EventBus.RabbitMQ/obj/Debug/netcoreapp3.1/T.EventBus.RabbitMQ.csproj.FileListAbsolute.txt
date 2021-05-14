@@ -1,0 +1,12 @@
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.deps.json
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.dll
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.pdb
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\T.EventBus.dll
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\T.EventBus.pdb
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.csprojAssemblyReference.cache
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.csproj.CopyComplete
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.dll
+D:\Projects\Learning\T.Learning\EventBus\T.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\T.EventBus.RabbitMQ.pdb

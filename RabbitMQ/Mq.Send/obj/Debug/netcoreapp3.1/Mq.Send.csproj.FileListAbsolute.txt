@@ -1,0 +1,15 @@
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.exe
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.AssemblyInfoInputs.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.AssemblyInfo.cs
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.deps.json
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.runtimeconfig.json
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.runtimeconfig.dev.json
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\Mq.Send.pdb
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.pdb
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.genruntimeconfig.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\T.Learning\RabbitMQ\T.RabbitMQ\Mq.Send\obj\Debug\netcoreapp3.1\Mq.Send.csproj.CopyComplete
